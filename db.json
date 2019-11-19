@@ -1,14 +1,31 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Categories": [
+    { "id": 1, "title": "Sports",
+     "subCategories":[
+     { "id": 1, "body": " Adidas", "about": "Adidas is a popular brand..." },
+    { "id": 2, "body": "Nike", "about": "Nike is a popular brand..." },
+     { "id": 3, "body": "Puma", "about": "Puma is a popular brand..." }
+    ] },
+    
+    { "id": 2, "title": "Cars",
+    "subCategories":[
+     { "id": 1, "body": " Bugatti", "about": "Bugatti is a popular brand..." },
+    { "id": 2, "body": "Ferrari", "about": "Ferrari is a popular brand..." },
+     { "id": 3, "body": "BMW", "about": "BMW is a popular brand..." }
+    ]
+    },
+    
+    { "id": 3, "title": "Food",
+    "subCategories":[
+     { "id": 1, "body": "Pizza", "about": "Pizza is a popular brand..." },
+    { "id": 2, "body": "Burger", "about": "Burger is a popular brand..." },
+     { "id": 3, "body": "Fries", "about": "Fries is a popular brand..." }
+    ]
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "users": [
+    { "id": 1, "username": "rajanpreet", "password": "rajanpreet@123" },
+    { "id": 2, "username": "mohamed", "postId": "Mohamed@123" },
+    { "id": 3, "username": "reactdeveloper", "postId": "react@123" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
