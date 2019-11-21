@@ -2,24 +2,34 @@
     "Categories": [
       { "id": 1, "title": "Sports", "image_url" : "https://blog.ipleaders.in/wp-content/uploads/2019/10/GEN-Sports.png",
        "subCategories":[
-       { "id": 1, "body": " Adidas", "about": "Adidas is a popular brand...","image_url": "https://i.pinimg.com/originals/85/3b/97/853b978bff0dbad12f6f51f2c66f0e4f.jpg" },
-      { "id": 2, "body": "Nike", "about": "Nike is a popular brand...","image_url":"http://cdn.shopify.com/s/files/1/1431/4540/products/NIKE_Logo_AIR_Jordan_JumpMan_23_HUGE_Flight_Wall_Decal_Sticker_grande.jpg?v=1526782062" },
-       { "id": 3, "body": "Puma", "about": "Puma is a popular brand...","image_url":"https://nuvali.ph/wp-content/uploads/sites/8/2018/04/Puma-Logo.png" }
+       { "id": 1, "body": " Adidas", "about": "The company was started by Adolf Dassler in his mother's house; he was joined by his elder brother Rudolf in 1924 under the name Dassler Brothers Shoe Factory. Dassler assisted in the development of spiked running shoes (spikes) for multiple athletic events. To enhance the quality of spiked athletic footwear, he transitioned from a previous model of heavy metal spikes to utilising canvas and rubber.",
+        "image_url": "https://i.pinimg.com/originals/85/3b/97/853b978bff0dbad12f6f51f2c66f0e4f.jpg" },
+           
+      { "id": 2, "body": "Nike", "about": "The company was founded on January 25, 1964, as Blue Ribbon Sports, by Bill Bowerman and Phil Knight, and officially became Nike, Inc. on May 30, 1971. The company takes its name from Nike, the Greek goddess of victory.Nike markets its products under its own brand, as well as Nike Golf, Nike Pro, Nike+, Air Jordan, Nike Blazers, Air Force 1, Nike Dunk, Air Max, Foamposite, Nike Skateboarding, Nike CR7",
+       "image_url":"http://cdn.shopify.com/s/files/1/1431/4540/products/NIKE_Logo_AIR_Jordan_JumpMan_23_HUGE_Flight_Wall_Decal_Sticker_grande.jpg?v=1526782062" },
+           
+       { "id": 3, "body": "Puma", "about": "Puma SE, branded as Puma, is a German multinational company that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world",
+        "image_url":"https://nuvali.ph/wp-content/uploads/sites/8/2018/04/Puma-Logo.png" }
       ] },
       
       { "id": 2, "title": "Cars", "image_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Bugatti/Bugatti-Chiron/6524/1550828170128/front-left-side-47.jpg",
       "subCategories":[
-       { "id": 1, "body": " Bugatti", "about": "Bugatti is a popular brand...","image_url":"https://media.zigcdn.com/media/model/2019/Sep/bugatti-chiron_600x400.jpg" },
-      { "id": 2, "body": "Ferrari", "about": "Ferrari is a popular brand...","image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/ferrari_sf90_stradale_2.jpg?itok=snaaYXqT" },
-       { "id": 3, "body": "BMW", "about": "BMW is a popular brand...","image_url":"https://cdn.autoportal.com/img/new-cars-gallery/bmw/3-series/colors/14547a03f3d32b6b6351262788b3c3c5.jpg" }
+       { "id": 1, "body": " Bugatti", "about": "Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories. ",
+        "image_url":"https://media.zigcdn.com/media/model/2019/Sep/bugatti-chiron_600x400.jpg" },
+          
+      { "id": 2, "body": "Ferrari", "about": "Ferrari (/fəˈrɑːri/; Italian: [ferˈraːri]) is an Italian luxury sports car manufacturer based in Maranello. Founded by Enzo Ferrari in 1939 out of Alfa Romeo's race division as Auto Avio Costruzioni, the company built its first car in 1940. However, the company's inception as an auto manufacturer is usually recognized in 1947, when the first Ferrari-badged car was completed.",
+       "image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/ferrari_sf90_stradale_2.jpg?itok=snaaYXqT" },
+          
+       { "id": 3, "body": "BMW", "about": "Bayerische Motoren Werke AG, commonly known as Bavarian Motor Works, BMW or BMW AG, is a German automobile, motorcycle and engine manufacturing company founded in 1916. BMW is headquartered in Munich, Bavaria.",
+        "image_url":"https://cdn.autoportal.com/img/new-cars-gallery/bmw/3-series/colors/14547a03f3d32b6b6351262788b3c3c5.jpg" }
       ]
       },
       
       { "id": 3, "title": "Food", "image_url": "https://static.toiimg.com/photo/68283907.cms",
       "subCategories":[
-       { "id": 1, "body": "Pizza", "about": "Pizza is a popular brand...","image_url":"https://images-gmi-pmc.edge-generalmills.com/f4c0a86f-b080-45cd-a8a7-06b63cdb4671.jpg" },
-      { "id": 2, "body": "Burger", "about": "Burger is a popular brand...","image_url":"https://www.seriouseats.com/recipes/images/2015/07/20150702-sous-vide-hamburger-anova-primary-1500x1125.jpg" },
-       { "id": 3, "body": "Fries", "about": "Fries is a popular brand...","image_url":"https://img.kidspot.com.au/7XIKU939/w643-h428-cfill-q90/kk/2018/07/shoestringfries-jpg-507423-1.jpg" }
+       { "id": 1, "body": "Pizza", "about": "Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese etc.","image_url":"https://images-gmi-pmc.edge-generalmills.com/f4c0a86f-b080-45cd-a8a7-06b63cdb4671.jpg" },
+      { "id": 2, "body": "Burger", "about": "A hamburger (short: burger) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.","image_url":"https://www.seriouseats.com/recipes/images/2015/07/20150702-sous-vide-hamburger-anova-primary-1500x1125.jpg" },
+       { "id": 3, "body": "Fries", "about": "Most french fries are produced from frozen potatoes which have been blanched or at least air-dried industrially. Most chains that sell fresh cut fries use the Idaho Russet Burbank variety of potatoes. I","image_url":"https://img.kidspot.com.au/7XIKU939/w643-h428-cfill-q90/kk/2018/07/shoestringfries-jpg-507423-1.jpg" }
       ]
       }
     ],
