@@ -37,5 +37,8 @@
       { "id": 1, "username": "rajanpreet", "password": "rajanpreet@123" },
       { "id": 2, "username": "mohamed", "password": "Mohamed@123" },
       { "id": 3, "username": "reactdeveloper", "password": "react@123" }
+    ],
+    "heartEmoji":[
+      {"url":"https://i.pinimg.com/originals/36/6a/1f/366a1f4532339959075efa6eb03f7a4d.png"}
     ]
 }
