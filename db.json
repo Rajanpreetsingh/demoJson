@@ -1,6 +1,6 @@
 {
     "Categories": [
-      { "id": 1, "title": "Sports",
+      { "id": 1, "title": "Sports", "image_url" : "https://blog.ipleaders.in/wp-content/uploads/2019/10/GEN-Sports.png" 
        "subCategories":[
        { "id": 1, "body": " Adidas", "about": "Adidas is a popular brand..." },
       { "id": 2, "body": "Nike", "about": "Nike is a popular brand..." },
