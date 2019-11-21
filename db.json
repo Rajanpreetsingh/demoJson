@@ -7,7 +7,7 @@
        { "id": 3, "body": "Puma", "about": "Puma is a popular brand..." }
       ] },
       
-      { "id": 2, "title": "Cars",
+      { "id": 2, "title": "Cars", "image_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Bugatti/Bugatti-Chiron/6524/1550828170128/front-left-side-47.jpg",
       "subCategories":[
        { "id": 1, "body": " Bugatti", "about": "Bugatti is a popular brand..." },
       { "id": 2, "body": "Ferrari", "about": "Ferrari is a popular brand..." },
@@ -15,7 +15,7 @@
       ]
       },
       
-      { "id": 3, "title": "Food",
+      { "id": 3, "title": "Food", "image_url": "https://static.toiimg.com/photo/68283907.cms",
       "subCategories":[
        { "id": 1, "body": "Pizza", "about": "Pizza is a popular brand..." },
       { "id": 2, "body": "Burger", "about": "Burger is a popular brand..." },
