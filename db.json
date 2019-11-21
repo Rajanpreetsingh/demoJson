@@ -14,22 +14,22 @@
       
       { "id": 2, "title": "Cars", "image_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Bugatti/Bugatti-Chiron/6524/1550828170128/front-left-side-47.jpg",
       "subCategories":[
-       { "id": 1, "body": " Bugatti", "about": "Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories. ",
+       { "id": 4, "body": " Bugatti", "about": "Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories. ",
         "image_url":"https://media.zigcdn.com/media/model/2019/Sep/bugatti-chiron_600x400.jpg" },
           
-      { "id": 2, "body": "Ferrari", "about": "Ferrari (/fəˈrɑːri/; Italian: [ferˈraːri]) is an Italian luxury sports car manufacturer based in Maranello. Founded by Enzo Ferrari in 1939 out of Alfa Romeo's race division as Auto Avio Costruzioni, the company built its first car in 1940. However, the company's inception as an auto manufacturer is usually recognized in 1947, when the first Ferrari-badged car was completed.",
+      { "id": 5, "body": "Ferrari", "about": "Ferrari (/fəˈrɑːri/; Italian: [ferˈraːri]) is an Italian luxury sports car manufacturer based in Maranello. Founded by Enzo Ferrari in 1939 out of Alfa Romeo's race division as Auto Avio Costruzioni, the company built its first car in 1940. However, the company's inception as an auto manufacturer is usually recognized in 1947, when the first Ferrari-badged car was completed.",
        "image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/images/car-reviews/first-drives/legacy/ferrari_sf90_stradale_2.jpg?itok=snaaYXqT" },
           
-       { "id": 3, "body": "BMW", "about": "Bayerische Motoren Werke AG, commonly known as Bavarian Motor Works, BMW or BMW AG, is a German automobile, motorcycle and engine manufacturing company founded in 1916. BMW is headquartered in Munich, Bavaria.",
+       { "id": 6, "body": "BMW", "about": "Bayerische Motoren Werke AG, commonly known as Bavarian Motor Works, BMW or BMW AG, is a German automobile, motorcycle and engine manufacturing company founded in 1916. BMW is headquartered in Munich, Bavaria.",
         "image_url":"https://cdn.autoportal.com/img/new-cars-gallery/bmw/3-series/colors/14547a03f3d32b6b6351262788b3c3c5.jpg" }
       ]
       },
       
       { "id": 3, "title": "Food", "image_url": "https://static.toiimg.com/photo/68283907.cms",
       "subCategories":[
-       { "id": 1, "body": "Pizza", "about": "Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese etc.","image_url":"https://images-gmi-pmc.edge-generalmills.com/f4c0a86f-b080-45cd-a8a7-06b63cdb4671.jpg" },
-      { "id": 2, "body": "Burger", "about": "A hamburger (short: burger) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.","image_url":"https://www.seriouseats.com/recipes/images/2015/07/20150702-sous-vide-hamburger-anova-primary-1500x1125.jpg" },
-       { "id": 3, "body": "Fries", "about": "Most french fries are produced from frozen potatoes which have been blanched or at least air-dried industrially. Most chains that sell fresh cut fries use the Idaho Russet Burbank variety of potatoes. I","image_url":"https://img.kidspot.com.au/7XIKU939/w643-h428-cfill-q90/kk/2018/07/shoestringfries-jpg-507423-1.jpg" }
+       { "id": 7, "body": "Pizza", "about": "Pizza is a savory dish of Italian origin, consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese etc.","image_url":"https://images-gmi-pmc.edge-generalmills.com/f4c0a86f-b080-45cd-a8a7-06b63cdb4671.jpg" },
+      { "id": 8, "body": "Burger", "about": "A hamburger (short: burger) is a sandwich consisting of one or more cooked patties of ground meat, usually beef, placed inside a sliced bread roll or bun.","image_url":"https://www.seriouseats.com/recipes/images/2015/07/20150702-sous-vide-hamburger-anova-primary-1500x1125.jpg" },
+       { "id": 9, "body": "Fries", "about": "Most french fries are produced from frozen potatoes which have been blanched or at least air-dried industrially. Most chains that sell fresh cut fries use the Idaho Russet Burbank variety of potatoes. I","image_url":"https://img.kidspot.com.au/7XIKU939/w643-h428-cfill-q90/kk/2018/07/shoestringfries-jpg-507423-1.jpg" }
       ]
       }
     ],
